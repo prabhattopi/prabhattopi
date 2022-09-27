@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MongoDB, Express, Reactjs, Nodejs**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://prabhatprotfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://prabhattopi.github.io/)
 
 - 📝 I regularly write articles on [My Blog](https://medium.com/@topi9864)
 
