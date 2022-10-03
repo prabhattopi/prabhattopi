@@ -12,15 +12,15 @@
 
 - 🌱 I’m currently learning **MongoDB, Express, Reactjs, Nodejs**
 
+- 💬 Ask me about **HTML, CSS, Javascript, MERN, DSA, Soft Skills,**
+
+- 📫 How to reach me **topi9864@gmail.com**
+
 - 👨‍💻 All of my projects are available at [Portfolio](https://prabhattopi.github.io/)
 
 - 📝 I regularly update posts on [LinkedIn](https://www.linkedin.com/in/prabhat-singh-71296721b/)
 
 - 📝 I regularly write articles on [My Blog](https://medium.com/@topi9864)
-
-- 💬 Ask me about **HTML, CSS, Javascript, MERN, DSA, Soft Skills,**
-
-- 📫 How to reach me **topi9864@gmail.com**
 
 - 📄 Know about my experiences by going through my [Resume](https://drive.google.com/file/d/1UjCtW2mOcWEsaGzslftcg_c93NPscktM/view?usp=sharing)
 
