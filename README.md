@@ -9,8 +9,12 @@ and backend development. Handles any part
 of the process with ease. And I also have
 remote collaboration and teamwork with 4+
 projects.</h3>
-<img align="right" width="400" alt="Coding" src="https://kiyalearning.sg/wp-content/uploads/2022/05/b9e4960c1476c78043d499d975f86cdb.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhattopi&label=Profile%20views&color=0e75b6&style=flat" alt="prabhattopi" /> </p>
+<hr/>
+
+<img align="center" width="400" alt="Coding" src="https://kiyalearning.sg/wp-content/uploads/2022/05/b9e4960c1476c78043d499d975f86cdb.gif">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhattopi" alt="prabhattopi" /></a> </p>
 
@@ -50,8 +54,9 @@ projects.</h3>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/topi9864q"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Prabhat Singh" /></a></p><br><br>
+<hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhattopi&show_icons=true&locale=en&layout=compact" alt="prabhattopi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhattopi&show_icons=true&locale=en&layout=compact" alt="prabhattopi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhattopi&show_icons=true&locale=en" alt="prabhattopi" /></p>
 
