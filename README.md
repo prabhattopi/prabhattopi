@@ -1,14 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
 <h1 align="center">Hi 👋, I'm Prabhat Singh</h1>
-<h3 align="center" width="100px">Full Stack Web developer with 1000+ hours of hands-on
-coding experience seeking challenging roles to
-use and learn skills in the industry. Quick
-learner who can adapt to changing
-environments. Experienced in both frontend
-and backend development. Handles any part
-of the process with ease. And I also have
-remote collaboration and teamwork with 4+
-projects.</h3>
+<h3 align="center" width="100px">I am a Full-Stack Web Developer with 1000+ hours of hands-on coding experience looking for new challenges to use and learn skills in the industry. A quick learner who can adapt to new situations, with experience in both front-end and back-end development. handles any part of the process with ease. and also have remote collaboration and teamwork with four or more projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhattopi&label=Profile%20views&color=0e75b6&style=flat" alt="prabhattopi" /> </p>
 <hr/>
