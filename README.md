@@ -39,7 +39,6 @@ Collaboration with team members is top-notch.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/prabhattopi" target="blank"><img align="center" src="https://lh3.googleusercontent.com/pt9ngBpB6QK0pJFMo0vQW3Zrz4LaVmBDr2-OD0BNX27SO9JnlT9vXsW9UhZn4VDxGvtGWHlS4vS37HUdyltqOsd_zVu5nkx6_6Kx6QU" alt="prabhattopi" height="30" width="40" /></a>
 <a href="https://twitter.com/NumericalWallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prabhat singh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/prabhat-singh-71296721b" target="_blank"><img align="center" src="https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831589865?e=1695254400&v=beta&t=zX_buUyjxghlyduytf3nRuRSQvwkVZ_IjA2ighBeaTw" alt="prabhat singh" height="30" width="40" /></a>
 <a href="https://codesandbox.com/prabhattopi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="prabhattopi" height="30" width="40" /></a>
